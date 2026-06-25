@@ -1,3 +1,4 @@
 version=Koffmann-Classic 2.2
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cap nhat tinh nang moi 2.2.
+notes=Cap nhat tinh nang moi 2.1
+chúng tôi hân hạnh mang đến cho bạn cập nhật 2.1 không khác gì 2.0
