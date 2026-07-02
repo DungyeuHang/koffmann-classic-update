@@ -1,5 +1,4 @@
-version=Koffmann-Classic 2.0.2
+version=Koffmann-Classic 2.0.3
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cap nhat tinh nang moi 2.0.2
-1.Chỉnh BẮT BUỘC update
-2.Chỉnh ghi chú tôn u đầu ka
+notes=Cap nhat tinh nang moi 2.0.3
+Chỉnh đón khóa cửa đơn KA1 + KAT1
