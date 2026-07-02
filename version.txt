@@ -1,4 +1,4 @@
-version=Koffmann-Classic 2.0.4
+version=Koffmann-Classic 2.0.5
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - 2.0.4
-Thêm hình chiếu cho tấm đáy cửa 2 cánh
+notes=Cập nhật mới - 2.0.5
+Fix lỗi kết nối COM error + cho phép người dùng chọn điểm lại
