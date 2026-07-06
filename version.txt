@@ -1,4 +1,4 @@
-version=Koffmann-Classic 2.0.7
+version=Koffmann-Classic 2.0.8
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - 2.0.7
-* Chỉnh lỗ thân khóa cửa KA 1 cánh
+notes=Cập nhật mới - 2.0.8
+* Chỉnh khấc phào giả
