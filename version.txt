@@ -1,4 +1,4 @@
-version=Koffmann-Classic 2.1.0
+version=Koffmann-Classic 2.1.1
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - 2.1.0
-* Thêm khấc ở cánh phụ để dễ khoan vít
+notes=Cập nhật mới - 2.1.1
+-Chỉnh tăng cứng khung
