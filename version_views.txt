@@ -1,4 +1,4 @@
-version=Koffmann-Views 1.0.1
+version=Koffmann-Views 1.0.2
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main_views.exe
-notes=Koffmann-Views 1.0.1
+notes=Koffmann-Views 1.0.2
 THÊM TAY KHÓA
