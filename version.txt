@@ -1,6 +1,4 @@
-version=Koffmann-Classic 2.1.3
+version=Koffmann-Classic 2.1.4
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - 2.1.3
--Thêm cơ chế tự động nhập vật liệu khi để trống: 
- => với huỳnh có ký tự "38" ở huỳnh cánh chính ngoài => tự động gán vật liệu là inox
- => còn lại là "THEP"
+notes=Cập nhật mới - Koffmann-Classic 2.1.4
+-Chỉnh đố ngang tất cả cửa
