@@ -1,4 +1,4 @@
-version=Koffmann-Classic 2.1.6
+version=Koffmann-Classic 2.1.7
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.1.6
--Chỉnh lỗ hàn lắp cửa 4 & 2 cánh
+notes=Cập nhật mới - Koffmann-Classic 2.1.7
+-Chỉnh ĐƯỜNG CHẤN INOX
