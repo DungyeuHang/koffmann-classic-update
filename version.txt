@@ -1,4 +1,4 @@
-version=Koffmann-Classic 2.1.8
+version=Koffmann-Classic 2.1.9
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.1.8
--Chỉnh ĐƯỜNG CHẤN INOX
+notes=Cập nhật mới - Koffmann-Classic 2.1.9
+-Chỉnh ĐƯỜNG CHẤN INOx
