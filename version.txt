@@ -1,6 +1,5 @@
-version=Koffmann-Classic 2.2.2
+version=Koffmann-Classic 2.2.3
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.2.2
--Cải thiện độ ổn định chương trình
--Fix lỗi Dim cửa KA
--Tự động thoát chương trình tránh xung đột
+notes=Cập nhật mới - Koffmann-Classic 2.2.3
+-Chỉnh lỗ khoét bản lề trên khung
+
