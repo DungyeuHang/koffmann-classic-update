@@ -1,4 +1,4 @@
-version=Koffmann-Classic 2.2.8
+version=Koffmann-Classic 2.2.9
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.2.8
-- Chỉnh đón khóa khung cửa đơn
+notes=Cập nhật mới - Koffmann-Classic 2.2.9
+-Thêm điều kiện tự động nhận vật liệu cho cửa Inox: KAI
