@@ -1,4 +1,4 @@
-version=Koffmann-Classic 2.3.1
+version=Koffmann-Classic 2.3.2
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.3.1
--Chỉnh lỗ khoét đón khóa trên khung cửa 1 cánh
+notes=Cập nhật mới - Koffmann-Classic 2.3.2
+-Chỉnh biên dạng chấn mới cho cửa KA
