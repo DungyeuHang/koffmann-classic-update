@@ -1,4 +1,6 @@
-version=Koffmann-Classic 2.3.2
+version=Koffmann-Classic 2.3.3
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.3.2
--Chỉnh biên dạng chấn mới cho cửa KA
+notes=Cập nhật mới - Koffmann-Classic 2.3.3
+-Chỉnh lỗ phào giả
+-Chỉnh chương trình khi không có mạng
+-Thêm chức năng hủy khi chương trình đang chạy
