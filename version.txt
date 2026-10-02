@@ -1,4 +1,4 @@
-version=Koffmann-Classic 2.3.6
+version=Koffmann-Classic 2.3.7
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.3.6
--Chỉnh lỗ vít cánh phụ cửa 4C
+notes=Cập nhật mới - Koffmann-Classic 2.3.7
+-Chỉnh SỐ LƯỢNG PHÀO GIẢ
