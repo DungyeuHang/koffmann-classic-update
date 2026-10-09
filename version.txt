@@ -1,5 +1,4 @@
-version=Koffmann-Classic 2.3.8
+version=Koffmann-Classic 2.3.9
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.3.8
--Chỉnh đón khóa cửa 1 cánh Inox
--Chỉnh tấm tràn viền
+notes=Cập nhật mới - Koffmann-Classic 2.3.9
+-Thêm lỗ chốt âm cánh chính cho tất cả cửa
