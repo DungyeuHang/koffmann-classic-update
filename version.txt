@@ -1,4 +1,8 @@
-version=Koffmann-Classic 2.3.9
+version=Koffmann-Classic 2.4.0
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.3.9
--Thêm lỗ chốt âm cánh chính cho tất cả cửa
+notes=Cập nhật mới - Koffmann-Classic 2.4.0
+-Chỉnh lỗ khoét khóa cánh chính 
+-Chỉnh huỳnh 47
+-Thêm giới hạn khung ngang cho cửa không ô thoáng:
+	+)Đối với 4 & 2 cánh: 40< dày khung ngang <70
+	+)Đối với 1 cánh: 30< dày khung ngang <70
