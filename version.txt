@@ -1,7 +1,4 @@
-version=Koffmann-Classic 2.4.1
+version=Koffmann-Classic 2.4.2
 download_url=https://raw.githubusercontent.com/DungyeuHang/koffmann-classic-update/main/Main.exe
-notes=Cập nhật mới - Koffmann-Classic 2.4.1
--Chỉnh phào giả để tương thích với giữ liệu từ LinkQ:
-	+ TH1: ô phào giả để trống => không có phào giả
-	+ TH2: ô phào giả có "TRAPHAO" => phào 1 mặt; trường hợp phào giả 1 mặt ôm tường n: điền n sau TRAPHAO (ví dụ: TRAPHAO80 => 1 mặt phào giả ôm tường 80)
-	+ TH3: ô phào giả có "PHAOGIA" => phào 2 mặt, trường hợp ôm tường khác tiêu chuẩn tương tự bên trên
+notes=Cập nhật mới - Koffmann-Classic 2.4.2
+-Thêm đường chấn cho các huỳnh từ 44 => 49, 491
